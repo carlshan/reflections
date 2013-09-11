@@ -1,0 +1,13 @@
+Carl Shan
+
+Topic: What obstacles did you encounter? How did you go about fixing the problem? Who helped (people, links, etc)?
+
+
+Response: 
+Last week, there were one main problem that was encountered during class.
+
+In particular, there was a lack of clear instructions given on the procedures to install the virtual machine. The .md file for the day up on the Stat 157 Github repo did not outline clear instructions for the setting up of the virtual machine.
+
+In working around the problem, I made a few assumptions about the steps missing in between descriptions to set up my box.
+
+In reflection, I could have also documented exactly what it was I did and pushed changes to the repo. I'll do that next time I notice missing content from repos on the main Stat 157 Github.
